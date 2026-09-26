@@ -38,9 +38,10 @@ As a developer, I focus on delivering top-tier code quality and leveraging every
 ### GitHub Ecosystem Activity
 
 <div align="center">
-  <img src="https://vercel.app" alt="JayWeek's GitHub Stats" width="48%" />
+  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
   <img src="https://vercel.app" alt="Top Languages Used" width="48%" />
 </div>
+
 
 ---
 
